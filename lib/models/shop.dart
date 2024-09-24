@@ -57,7 +57,7 @@ class Shop extends ChangeNotifier {
 
     Product(
     name: "Boys's T-shirt", 
-    price: 89.99,
+    price: 79.99,
     description: "Discover timeless elegance with our collection of boy's tshirt.",
     imagePath: 'assets/tshirt_zara.jpeg'
     ),
