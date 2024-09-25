@@ -8,7 +8,7 @@
 
 Welcome to Dot Commerce, a Flutter-based application designed to showcase a simple yet functional e-commerce platform.
 
-All the code for this app is written by me on my personal PC, with help from online sources. This is my second ever app developed using Flutter and Dart. I must also mention that although i have learnet a great deal from this project i must maintain that the architecture of the app is inspired from a youtube video and i have added more functionality and features on my own.
+All the code for this app is written by me on my personal PC, with help from online sources. This is my second ever app developed using Flutter and Dart. I must also mention that although i have learnet a great deal from this project i must maintain that the architecture of the app is inspired from a flutter developer's tutorial and i have added more functionality and features on my own.
 
 ## Features
 
